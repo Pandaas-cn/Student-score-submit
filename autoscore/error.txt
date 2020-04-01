@@ -1,0 +1,1 @@
+Wed Apr  1 17:00:23 2020[Errno 13] Permission denied: 'F:\\Django_projects\\Auto_score_wjw\\autoscore\\savescore.xlsx'
